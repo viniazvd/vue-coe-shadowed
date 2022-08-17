@@ -11,7 +11,7 @@ const config = {
 
   output: [
     {
-      format: 'esm',
+      format: 'cjs',
       file: 'dist/bundle.js',
     }
   ],
