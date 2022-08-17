@@ -1,13 +1,13 @@
 {
   "name": "vue-coe-shadowed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "shadowed-component",
   "readmeFilename": "README.md",
   "keywords": [
     "vue",
     "shadowed"
   ],
-  "main": "dist/bundle.esm.js",
+  "main": "dist/bundle.js",
   "files": [
     "dist"
   ],
