@@ -1,0 +1,41 @@
+{
+  "name": "vue-coe-shadowed",
+  "version": "1.0.0",
+  "description": "shadowed-component",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "vue",
+    "shadowed"
+  ],
+  "main": "dist/bundle.esm.js",
+  "files": [
+    "dist"
+  ],
+  "author": {
+    "name": "Vinicius Azevedo",
+    "email": "viniazvd@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniazvd/vue-coe-shadowed"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "doc": "vite build",
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "node-sass": "^6.0.1",
+    "sass": "^1.36.0",
+    "sass-loader": "10",
+    "vite": "^2.5.7",
+    "rollup": "^2.53.3",
+    "rollup-plugin-vue": "5.0.0",
+    "rollup-plugin-scss": "^3.0.0",
+    "vite-plugin-vue2": "^1.8.2",
+    "@rollup/plugin-commonjs": "^20.0.0",
+    "vue": "^2.5.17",
+    "vue-template-compiler": "^2.5.17"
+  }
+}
